@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en aprender programación, aunque aun no decido en qué campo especializarme.  
 - 📚 También inglés para ampliar mis oportunidades.  
 - 🌱 Actualmente estoy estudiando en el Instituto Profesional IACC  
-- 😄 Pronouns: Él  
+- 😄 Pronombre: Él  
 
 <div class="container" align="center">
 Redes sociales para contactarme: </br>
